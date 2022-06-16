@@ -1,6 +1,6 @@
 # Abstract
 
-<code>Cis-regulatory elements can be classified by the shapes of their transcription initiation patterns,
+> ```Cis-regulatory elements can be classified by the shapes of their transcription initiation patterns,
 which are indicative of distinct regulatory mechanisms. While massively parallel reporter assays (MPRAs) 
 have enabled the functional study of sequence features within regulatory elements on an unprecedented 
 scale, current MPRA approaches focus on quantifying transcript abundance, largely ignoring where 
@@ -15,7 +15,7 @@ endogenous initiation patterns and transcription levels. Finally, we illustrate 
 cis-regulatory grammar by assessing the effects of core promoter and transcription factor motif mutations and 
 single nucleotide polymorphisms on transcription initiation. Taken together, TSS-MPRA reveals important caveats
 to consider when using MPRAs and enables high-resolution analysis of the sequence grammar underlying 
-transcription initiation.</code>
+transcription initiation.```
 
 
 ## Welcome to GitHub Pages
